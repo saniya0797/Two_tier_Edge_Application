@@ -1,0 +1,6 @@
+[submodule "Java-component"]
+	path = Java-component
+	url = https://github.com/saniya0797/Java-component.git
+[submodule "python-component"]
+	path = python-component
+	url = https://github.com/saniya0797/python-component.git
